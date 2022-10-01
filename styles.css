@@ -171,7 +171,7 @@ p.index {
    visibility: hidden;
 }
   
-@media only screen and (max-width: 920px) {
+@media only screen and (max-width: 1080px) {
    div.flex {
       flex-direction: column-reverse;
       flex-wrap: row-reverse;
@@ -196,7 +196,7 @@ p.index {
 
    div.container {
       width: 100%;
-      max-width: 866px;
+      max-width: 1080px;
    }
 
    nav>ul {
